@@ -41,6 +41,6 @@
 
 
 ### 📬 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 🌐 [Portfolio](https://vaibhav-talekar.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-talekar-37056224b/)
+- 🌐 [Portfolio](https://vaibhav-talekar-portfolio.vercel.app/)
 - 📧 vtalekar0734@gmail.com
