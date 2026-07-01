@@ -35,14 +35,10 @@
 | **QueryMind.ai** | NL-to-SQL platform using Groq API | [Live](https://querymind-ruddy.vercel.app) |
 | **DataForge** | Data quality engine for CSV/Excel profiling | [Live](https://dataforge-upgoxxngpjptfws5s9feky.streamlit.app) |
 | **CloudForge** | Modular ETL pipeline on AWS S3 | [Live](https://cloudforge-pipeline-p7efwyhxnjqkkz79ycrya5.streamlit.app) |
+| **Customer 360** | Retention & Revenue Intelligence Dashboard | [Live](https://github.com/VaibhavTalekar2002/customer-360-dashboard) |
 
 ---
 
-### 📈 GitHub Stats
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavTalekar2002&show_icons=true&theme=dark)
-
----
 
 ### 📬 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
